@@ -4,6 +4,8 @@
 
 - [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
+- [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900?) - Microsoft (Coursera)
+
 - [Microsoft Azure Training Playlist](https://www.youtube.com/watch?v=tDuruX7XSac&list=PL9ooVrP1hQOHdFketT6JzY-71nBgIu-n0) - Edureka
 
 - [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
