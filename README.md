@@ -12,4 +12,4 @@
 
 - [Azure Full Course - Learn Microsoft Azure in 8 Hours | Azure Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=tDuruX7XSac) - Edureka
 
-- [Microsoft Azure Fundamentals Certification (AZ-900) Full Course | Azure Online Training | Edureka | Azure Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=wK3U7xSt31M&t=11939s) - Edureka!
+- [Microsoft Azure Fundamentals Certification (AZ-900) Full Course | Azure Online Training | Edureka | Azure Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=wK3U7xSt31M&t=11939s) - Edureka
