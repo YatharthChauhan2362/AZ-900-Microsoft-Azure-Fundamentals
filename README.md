@@ -1,4 +1,4 @@
-### Microsoft Azure
+# Microsoft Azure Certification Path
 
 ![microsoft-azure-certification-path](https://user-images.githubusercontent.com/75237577/190328320-7c668850-b8ea-4e29-806d-8a0f43711571.png)
 
