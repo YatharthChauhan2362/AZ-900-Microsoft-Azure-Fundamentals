@@ -1,6 +1,11 @@
-### Cloud Computing
+### Microsoft Azure
+
+![microsoft-azure-certification-path](https://user-images.githubusercontent.com/75237577/190328320-7c668850-b8ea-4e29-806d-8a0f43711571.png)
+
 
 <!--* [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)-->
+
+# Microsoft Azure Courses
 
 - [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
