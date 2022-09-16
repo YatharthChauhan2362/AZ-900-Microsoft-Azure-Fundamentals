@@ -4,7 +4,9 @@
 
 - [Microosoft Azure Portal](https://portal.azure.com/)
 
-- [Microosoft Azure Docs]([https://azure.microsoft.com/en-in/](https://docs.microsoft.com/en-us/azure/?product=popular))
+- [Microosoft Azure Learn](https://docs.microsoft.com/en-us/training/azure/)
+
+- [Microosoft Azure Docs]([https://azure.microsoft.com/en-in/](https://docs.microsoft.com/en-us/azure/?product=popular)
 
 <!--* [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)-->
 
