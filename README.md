@@ -6,7 +6,11 @@
 
 - [Microosoft Azure Learn](https://docs.microsoft.com/en-us/training/azure/)
 
-- [Microosoft Azure Docs]([https://azure.microsoft.com/en-in/](https://docs.microsoft.com/en-us/azure/?product=popular)
+- [Microosoft Azure Docs](https://docs.microsoft.com/en-us/azure/?product=popular)
+
+- [Microosoft Azure ADL Challenge](https://adlchallenge.in/)
+
+
 
 <!--* [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)-->
 
