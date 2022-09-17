@@ -1,14 +1,14 @@
 # Microsoft Azure 
 
-- [Microosoft Azure](https://azure.microsoft.com/en-in/)
+- [Microsoft Azure](https://azure.microsoft.com/en-in/)
 
-- [Microosoft Azure Portal](https://portal.azure.com/)
+- [Microsoft Azure Portal](https://portal.azure.com/)
 
-- [Microosoft Azure Learn](https://docs.microsoft.com/en-us/training/azure/)
+- [Microsoft Azure Learn](https://docs.microsoft.com/en-us/training/azure/)
 
-- [Microosoft Azure Docs](https://docs.microsoft.com/en-us/azure/?product=popular)
+- [Microsoft Azure Docs](https://docs.microsoft.com/en-us/azure/?product=popular)
 
-- [Microosoft Azure ADL Challenge](https://adlchallenge.in/)
+- [Microsoft Azure ADL Challenge](https://adlchallenge.in/)
 
 
 
