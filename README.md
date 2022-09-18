@@ -41,9 +41,7 @@
 
 - [Microsoft Azure Fundamentals Certification (AZ-900) Full Course | Azure Online Training | Edureka | Azure Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=wK3U7xSt31M&t=11939s) - Edureka
 
-# Microsoft Azure Certification Path
 
-![microsoft-azure-certification-path](https://user-images.githubusercontent.com/75237577/190328320-7c668850-b8ea-4e29-806d-8a0f43711571.png)
 
 
 
@@ -295,4 +293,8 @@
 13. [Configuration as Code (PowerShell DSC & Azure Automation & Custom Script)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/13.%20Configuration%20as%20Code%20(PowerShell%20DSC%20&%20Azure%20Automation%20&%20Custom%20Script).md)
 
 [↑](#content)
+
+# Microsoft Azure Certification Path
+
+![microsoft-azure-certification-path](https://user-images.githubusercontent.com/75237577/190328320-7c668850-b8ea-4e29-806d-8a0f43711571.png)
 
