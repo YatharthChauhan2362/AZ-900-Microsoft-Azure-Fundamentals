@@ -28,6 +28,8 @@
 
 - [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
+- [AZ-900 Certification - Hindi](https://www.youtube.com/watch?v=aC3h0VOQWaw&list=PL_uXPmmIx2EkNVBOcUsFK8WA594UbIuZR) - Youtube
+
 - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900?) - Microsoft (Coursera)
 
 - [Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals) - Microsoft (Coursera)
