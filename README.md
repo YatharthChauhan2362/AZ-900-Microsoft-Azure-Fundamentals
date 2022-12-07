@@ -77,7 +77,8 @@
 1. [Cloud Basics](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.%20Cloud%20Basics.md)
    1. [Benefits of Cloud Computing](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.1.%20Benefits%20of%20Cloud%20Computing.md)
    2. [Cloud Deployment Models (Public vs Private vs Hybrid Cloud)](<./AZ-900%20Microsoft%20Azure%20Fundamentals/1.2.%20Cloud%20Deployment%20Models%20(Public%20vs%20Private%20vs%20Hybrid%20Cloud).md>)
-   3. Cloud Computing
+   3. [Cloud Computing](https://github.com/YatharthChauhan2362/Microsoft-Azure-Learning/blob/main/AZ-900%20Microsoft%20Azure%20Fundamentals/1.3.1.%20Compute%20%26%20Serverless%20%26%20Storage.md)
+      <!-- 3. Cloud Computing -->
       1. [Compute & Serverless & Storage](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.3.1.%20Compute%20&%20Serverless%20&%20Storage.md)
       2. [IaaS vs PaaS vs SaaS](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.3.2.%20IaaS%20vs%20PaaS%20vs%20SaaS.md)
    4. [Cloud Compliance](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.4.%20Cloud%20Compliance.md)
