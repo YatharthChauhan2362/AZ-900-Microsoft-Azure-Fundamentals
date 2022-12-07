@@ -20,11 +20,13 @@
 
 - [Microsoft Azure ADL Challenge](https://adlchallenge.in/)
 
-<!--* [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)-->
+<!--* [Cloud Computing and Development]() - Yatharth Chauhan (UAceIt) (email address *required*)-->
 
 # Microsoft Azure Courses
 
 - [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
+
+- [Prepare for the Microsoft Azure Fundamentals (AZ-900) Certification Exam](https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-azure-fundamentals-az-900-certification-exam) - LinkedIn Learning
 
 - [AZ-900 Certification - Hindi](https://www.youtube.com/watch?v=aC3h0VOQWaw&list=PL_uXPmmIx2EkNVBOcUsFK8WA594UbIuZR) - Youtube
 
