@@ -122,7 +122,7 @@
 
 [↑](#content)
 
-<!-- ### [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104): Microsoft Azure Administrator
+### [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104): Microsoft Azure Administrator
 
 1. Management
    1. [Azure Cloud Shell](AZ-104%20Microsoft%20Azure%20Administrator/1.1.%20Management%20-%20Azure%20Cloud%20Shell.md)
@@ -156,6 +156,7 @@
 
 [↑](#content)
 
+<!--
 ### [AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303): Microsoft Azure Architect Technologies
 
 1. [Azure basics](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/1.%20Azure%20basics.md)
