@@ -122,6 +122,7 @@
 
 [↑](#content)
 
+<!--
 ### [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104): Microsoft Azure Administrator
 
 1. Management
@@ -154,7 +155,7 @@
       2. [DNS & Name Resolution](<AZ-104%20Microsoft%20Azure%20Administrator/6.1.2.%20Networking%20-%20Virtual%20Network%20(VNet)%20-%20DNS%20&%20Name%20Resolution.md>)
    2. [Load Balancers](AZ-104%20Microsoft%20Azure%20Administrator/6.2.%20Networking%20-%20Load%20Balancers.md)
 
-[↑](#content)
+[↑](#content) -->
 
 <!--
 ### [AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303): Microsoft Azure Architect Technologies
